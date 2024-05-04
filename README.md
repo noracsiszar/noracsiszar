@@ -38,7 +38,7 @@ Implementing a simple cryptocurrency plattform in C++
 
 ## C++ Project number2: GPA calculator
 
--The GPA calculator calculates the GPA of a student for a semester for 3 courses (mathematics, biology and physics) based on:
+The GPA calculator calculates the GPA of a student for a semester for 3 courses (mathematics, biology and physics) based on:
  - grades from A+ to F
   - and ECTS points
   - The user defines the grades on a range from A+ to F and the ECTS points
@@ -47,14 +47,14 @@ Implementing a simple cryptocurrency plattform in C++
 
 ## C++ Project number3: RockpaperScissor game
 
-- One round of RockpaperScissor game:
+One round of RockpaperScissor game:
 - The user chooses Rock, Paper or Scissor and
 - the computer chooses a random of the three (corresponding to a random number).
 - an If loop compares user input with random computer number and splits out the text who won/lost.
   
 ## C++ Project number4: Using function incl. a loop
 
-- We are given 3 lines of input.
+We are given 3 lines of input.
 - Each line consists of 2 space separated integers - A and
 - For each input - you need to compute and output the following on separate lines:
 - A + B
@@ -62,6 +62,7 @@ Implementing a simple cryptocurrency plattform in C++
   
 ## C++ Project number5: The Fahrenheit Celsius converter using functions
 
+Fahrenheit Celcius converter:
 - The user enters the direction he wants to convert based on the printed out menu.
 - The user enters the amount of grade he wants to convert.
 - The result gets printed out to the console.
