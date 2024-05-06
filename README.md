@@ -72,6 +72,11 @@ Fahrenheit Celcius converter:
 - The user enters the all variables, the discounts in %.
 - The result gets printed out to the console.
 
+## C++ Project number 7: TIC TAC TOE.
+- The user decides who starts the game (The user or the computer).
+- Grid 3x3 is drawn and defined by rows and columns
+- Game ends with draw or win or lose.
+
 <!---
 noracsiszar/noracsiszar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
