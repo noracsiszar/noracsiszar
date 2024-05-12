@@ -33,6 +33,11 @@ Implementing a simple cryptocurrency plattform in C++
 - displaying Austrian Govies data for 1year term maturity bonds
 - analyzing HYPO bonds for Duration, Convexity, DV01 and YTM
 
+## Project number 5:
+- Contructing a BT Cerebro Engine for AAPL data from yahoo
+- using one signal
+- printing out total trades, graph, sharpe and analysis
+
 # C++
 
 ## C++ Project number 1: Ccy converter.
