@@ -29,16 +29,19 @@ Implementing a simple cryptocurrency plattform in C++
 - pulling data from yahoofinance on AAPL, calculating mean, variance, kurtosis, skewness and
 - testing if returns are normally distributed or not.
 
-## Project number 4:
+## Python Project number 4:
+
 - displaying Austrian Govies data for 1year term maturity bonds
 - analyzing HYPO bonds for Duration, Convexity, DV01 and YTM
 
-## Project number 5:
+## Python Project number 5:
+
 - Contructing a BT Cerebro Engine for AAPL data from yahoo
 - using one signal
 - printing out total trades, graph, sharpe and analysis
 
-## Project number 6:
+## Python Project number 6:
+
 - Educational spot market simulation
 - The user enters his/her name, gets FX gaps from the operating bank and FX quotes
 - The user can decide to buy or sell USD in order to close the FX gaps
